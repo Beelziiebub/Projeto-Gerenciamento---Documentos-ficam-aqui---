@@ -1,10 +1,10 @@
-1️⃣ Nome completo (campo obrigatório)
-2️⃣ E-mail (com validação de formato)
-3️⃣ Senha (com requisitos mínimos de segurança)
-4️⃣ Confirmação de senha (para evitar erros)
-5️⃣ Aceite dos termos e condições (checkbox obrigatório)
-6️⃣ Botão de cadastro (para enviar o formulário)
-7️⃣ Link para login (caso o usuário já tenha conta)
-8️⃣ Validação em tempo real (para mostrar erros antes do envio)
+1️⃣ Nome completo (campo obrigatório) - FEITO 
+2️⃣ E-mail (com validação de formato) -  FEITO 
+3️⃣ Senha (com requisitos mínimos de segurança) - FEITO 
+4️⃣ Confirmação de senha (para evitar erros) - FEITO 
+5️⃣ Aceite dos termos e condições (checkbox obrigatório) - Feito
+6️⃣ Botão de cadastro (para enviar o formulário) - FEITO 
+7️⃣ Link para login (caso o usuário já tenha conta) - FEITO
+8️⃣ Validação em tempo real (para mostrar erros antes do envio) - FEITO
 9️⃣ Mostrar/Esconder senha (ícone de olho no campo de senha)
-🔟 ReCAPTCHA ou proteção contra bots (para evitar spam)
+🔟 ReCAPTCHA ou proteção contra bots (para evitar spam) - FEITO (EM PARTES)
